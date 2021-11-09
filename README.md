@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my github, where I mostly post freelancing projects or random projects to help me learn and achieve more.
+Feel free to get in touch and maybe we can start **something big!💣** 
+
+Currently working on mastering my Vue.js :sloth:
 <!--
 **indy65/indy65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
