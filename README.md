@@ -4,6 +4,10 @@ Welcome to my github, where I mostly post freelancing projects or random project
 Feel free to get in touch and maybe we can start **something big!💣** 
 
 Currently working on mastering my Vue.js :sloth:
+
+:mailbox:: joaocerqueira65@hotmail.com
+
+🔗https://www.linkedin.com/in/jo%C3%A3o-cerqueira-b371b918b/
 <!--
 **indy65/indy65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
