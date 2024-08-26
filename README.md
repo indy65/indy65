@@ -3,7 +3,7 @@
 Welcome to my github, where I mostly post freelancing projects or random projects to help me learn and achieve more.
 Feel free to get in touch and maybe we can start **something big!💣** 
 
-Currently working on mastering my Vue.js skills :sloth:
+Currently working on mastering my Angular skills :sloth:
 
 :mailbox:: joaocerqueira65@hotmail.com
 
